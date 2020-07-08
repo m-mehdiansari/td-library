@@ -6,6 +6,17 @@ the lua library for tdbot 1.6.6
 ```
 local tdbot = require "tdbot"
 ```
+# get new update from telegram
+```
+# new message
+{}
+# inline query
+{}
+# result query
+{}
+# callback data
+{}
+```
 # base source code
 > for handel update you shoude 
 ```
