@@ -12,4 +12,4 @@ local tdbot = require "tdbot"
 function tdbot_update_callback (update) end
 ```
 # Translations
-
+persian
